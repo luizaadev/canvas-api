@@ -1,0 +1,1 @@
+nesse projeto aprendi funções como: fillRect, fillStyle, pincel.lineTo e pincel.moveTo, bem como o consumo de bibliotecas do javascript para criar gráficos, retângulos, triângulos e círculos com a função de desenhar com os pincéis na API do Canvas.
